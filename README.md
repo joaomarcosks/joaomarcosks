@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
 Meu nome é João Marcos💬 <br><br>Tenho 23 anos⚡ <br><br>Sou estudante de Análise e Desenvolvimento de Sistemas🔭 <br><br>A vida é uma constante evolução!🌱
 
 
@@ -18,6 +17,6 @@ Meu nome é João Marcos💬 <br><br>Tenho 23 anos⚡ <br><br>Sou estudante de A
 ![](https://github-profile-trophy.vercel.app/?username=joaomarcosks&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joaomarcosks&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
