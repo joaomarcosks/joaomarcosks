@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é João Marcos💬 <br><br>Tenho 23 anos⚡ <br><br>Sou estudante de Análise e Desenvolvimento de Sistemas🔭 <br><br>A vida é uma constante evolução!🌱
+Meu nome é João Marcos💬 <br><br>Tenho 24 anos⚡ <br><br>Sou formado em Análise e Desenvolvimento de Sistemas🔭 <br><br>Pós-graduando em Arquitetura e Desenvolvimento Java <br><br>A vida é uma constante evolução!🌱
 
 
 ## 🌐 Socials:
